@@ -29,22 +29,22 @@ Steps to Fix the Permission Denied Error
 
 Grant Executable Permissions:
 Run the following command in the Terminal to make the script executable:
-bashchmod +x Macrocketmenu.sh
+  bashchmod +x Macrocketmenu.sh
 
 Verify Permissions:
 Confirm that the script now has executable permissions:
-bashls -l Macrocketmenu.sh
-You should see output like -rwxr-xr-x, where the x indicates executable permissions for the owner, group, and others.
-Run the Script:
-Once permissions are set, execute the script:
-bash./Macrocketmenu.sh
+  bashls -l Macrocketmenu.sh
+  You should see output like -rwxr-xr-x, where the x indicates executable permissions for the owner, group, and others.
+  Once permissions are set, execute the script:
+    bash./Macrocketmenu.sh
 
 
 Additional Checks
 
-Correct Directory: Ensure you are in the same directory as Macrocketmenu.sh. If the script is located elsewhere, navigate to that directory using cd /path/to/directory or provide the full path, e.g., ~/path/to/Macrocketmenu.sh.
+Correct Directory: Ensure you are in the same directory as Macrocketmenu.sh. If the script is located elsewhere, navigate to that directory using
+- cd /path/to/directory or provide the full path, e.g., ~/path/to/Macrocketmenu.sh.
 File Ownership: If the permissions command fails, check the file ownership:
-bashls -l Macrocketmenu.sh
+- bashls -l Macrocketmenu.sh
 If the file is not owned by your user, change ownership:
 bashsudo chown $USER Macrocketmenu.sh
 
