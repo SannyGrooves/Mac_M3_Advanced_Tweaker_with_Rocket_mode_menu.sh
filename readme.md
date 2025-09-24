@@ -6,7 +6,10 @@ MAIN MENU:
 <img width="689" height="471" alt="Scherm­afbeelding 2025-09-24 om 23 40 44" src="https://github.com/user-attachments/assets/a2b257d1-741c-49fa-a769-6b0a1ec3ab9a" />
 <img width="736" height="725" alt="Scherm­afbeelding 2025-09-24 om 23 44 37" src="https://github.com/user-attachments/assets/ab3c8cac-18be-402b-a5c3-ec4ed36e2bd9" />
 
+- Auto report with all changes made when closing terminal
+  <img width="1508" height="753" alt="Scherm­afbeelding 2025-09-24 om 23 54 10" src="https://github.com/user-attachments/assets/38b56739-55ab-4c0c-afea-186c65356810" />
 
+- 
 
 Changes Made
 
