@@ -1,7 +1,10 @@
+- SOME SCREENS 
+MAIN MENU:
 <img width="737" height="333" alt="Scherm­afbeelding 2025-09-24 om 23 29 36" src="https://github.com/user-attachments/assets/9f4d0172-5f2e-43f3-bb43-e9e47d59596b" />
 <img width="310" height="550" alt="Scherm­afbeelding 2025-09-24 om 23 35 26" src="https://github.com/user-attachments/assets/ffef0f54-5dac-4c24-a853-d88dc6f289a3" />
 <img width="647" height="496" alt="Scherm­afbeelding 2025-09-24 om 23 31 12" src="https://github.com/user-attachments/assets/6d7cc569-8b18-42ac-b01b-2b2e3c8875f5" />
 <img width="689" height="471" alt="Scherm­afbeelding 2025-09-24 om 23 40 44" src="https://github.com/user-attachments/assets/a2b257d1-741c-49fa-a769-6b0a1ec3ab9a" />
+<img width="736" height="725" alt="Scherm­afbeelding 2025-09-24 om 23 44 37" src="https://github.com/user-attachments/assets/ab3c8cac-18be-402b-a5c3-ec4ed36e2bd9" />
 
 
 
